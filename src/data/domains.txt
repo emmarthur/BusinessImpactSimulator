@@ -1,0 +1,10 @@
+telecommunications
+retail
+real_estate
+manufacturing
+logistics
+hospitality
+energy
+education
+financial_services
+healthcare
