@@ -1,6 +1,6 @@
 ## Project Status
 The main Business Impact Simulator framework is under active development.  
-A smaller MVP version focused on the Retail domain is currently being built for my Internet, Web & Cloud Systems course (expected [Month, Year]).
+A smaller MVP version focused on the Retail domain will be built soon for my Internet, Web & Cloud Systems course (expected [12/2025).
 
 # Business Impact Simulator
 
