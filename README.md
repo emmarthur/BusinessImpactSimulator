@@ -1,3 +1,7 @@
+## Project Status
+The main Business Impact Simulator framework is under active development.  
+A smaller MVP version focused on the Retail domain is currently being built for my Internet, Web & Cloud Systems course (expected [Month, Year]).
+
 # Business Impact Simulator
 
 A backend application that simulates and analyzes the business impact of projects across different industry domains using AI agents.
